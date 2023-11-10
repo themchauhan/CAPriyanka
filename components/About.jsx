@@ -3,6 +3,7 @@ import styles from 'app/style.module.css';
 import Link from 'next/link';
 
 const About = () => {
+  
   return (
     <section className='about shadow-md bg-white text-black border-b-2' id="about">
         <div className="container md:flex items-center ">
